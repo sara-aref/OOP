@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700060638 source:c:\users\sara\onedrive\desktop\shape\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+
