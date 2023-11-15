@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700038982 source:c:\users\sara\onedrive\desktop\circle_assoc\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+

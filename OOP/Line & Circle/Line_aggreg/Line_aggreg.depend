@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699947450 source:c:\users\sara\onedrive\desktop\line_aggreg\main.cpp
+	<iostream>
+	<stdlib.h>
+	<graphics.h>
+
